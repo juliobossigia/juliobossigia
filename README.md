@@ -1,7 +1,7 @@
 ### Olá sou Julio Bossigia
 
 - 🔭 Hoje sou lider de desenvolvimento e comunicação na comunidade Santa Helena Valley   
-- 🌱 Estudante do curso de Ciência da Computação no campus IFMG de Rio Pomba
+- 🌱 Estudante do curso de Ciência da Computação pelo Instituto Federal Sudeste de Minas Gerais, no campus de Rio Pomba
 <div>
   <a href="https://github.com/juliobossigia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliobossigia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
