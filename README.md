@@ -12,9 +12,11 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliobossigia)
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 ## 🚀 Quem Sou Eu
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const julio = {
@@ -31,7 +33,7 @@ const julio = {
         "Resolução de Problemas",
         "Open Source"
     ],
-    objetivos2024: [
+    objetivos2025: [
         "Contribuir para projetos open source",
         "Aprofundar em Arquitetura de Software",
         "Desenvolver projetos inovadores",
