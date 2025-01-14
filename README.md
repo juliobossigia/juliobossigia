@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Sou+Julio+Bossigia;Desenvolvedor+Full+Stack!;Bem-vindo+ao+meu+universo+de+código!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Sou+Julio+Bossigia;Desenvolvedor+FullStack;Bem-vindo!" />
 
   > *"Transformando linhas de código em soluções que inspiram."*
 
